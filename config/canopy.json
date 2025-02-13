@@ -3,10 +3,10 @@
   "featured": [
     "https://repository.duke.edu/iiif/8cf8dcae-28ad-47c4-ac6b-a383f448c93a/manifest"
   ],
-  "metadata": ["Date", "Subject"],
-  "label": { "none": ["Collection Title"] },
+  "metadata": ["Date", "Subject", "Format", "Title", "Type", "Description", "Collection"],
+  "label": { "none": ["Cosmetics Trade Samples and Sachets"] },
   "summary": {
-    "none": ["Brief description of the site and its contents."]
+    "none": ["Consists of 75 trade samples and sachets of cosmetics, powders, makeup, soaps and scented paraphernalia."]
   },
   "theme": {
     "defaultTheme": "light",
