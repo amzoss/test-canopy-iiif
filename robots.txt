@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: https://amzoss.github.io/test-canopy-iiif
+Host: https://www.angelazoss.com/test-canopy-iiif
 
 # Sitemaps
-Sitemap: https://amzoss.github.io/test-canopy-iiif/sitemap.xml
+Sitemap: https://www.angelazoss.com/test-canopy-iiif/sitemap.xml
